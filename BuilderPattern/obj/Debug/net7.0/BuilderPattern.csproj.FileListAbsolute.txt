@@ -1,0 +1,15 @@
+C:\Users\cocol\Documents\Code\sexto_practivas\BUilder\BuilderPattern\obj\Debug\net7.0\BuilderPattern.csproj.AssemblyReference.cache
+C:\Users\cocol\Documents\Code\sexto_practivas\BUilder\BuilderPattern\obj\Debug\net7.0\BuilderPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cocol\Documents\Code\sexto_practivas\BUilder\BuilderPattern\obj\Debug\net7.0\BuilderPattern.AssemblyInfoInputs.cache
+C:\Users\cocol\Documents\Code\sexto_practivas\BUilder\BuilderPattern\obj\Debug\net7.0\BuilderPattern.AssemblyInfo.cs
+C:\Users\cocol\Documents\Code\sexto_practivas\BUilder\BuilderPattern\obj\Debug\net7.0\BuilderPattern.csproj.CoreCompileInputs.cache
+C:\Users\cocol\Documents\Code\sexto_practivas\BUilder\BuilderPattern\bin\Debug\net7.0\BuilderPattern.exe
+C:\Users\cocol\Documents\Code\sexto_practivas\BUilder\BuilderPattern\bin\Debug\net7.0\BuilderPattern.deps.json
+C:\Users\cocol\Documents\Code\sexto_practivas\BUilder\BuilderPattern\bin\Debug\net7.0\BuilderPattern.runtimeconfig.json
+C:\Users\cocol\Documents\Code\sexto_practivas\BUilder\BuilderPattern\bin\Debug\net7.0\BuilderPattern.dll
+C:\Users\cocol\Documents\Code\sexto_practivas\BUilder\BuilderPattern\bin\Debug\net7.0\BuilderPattern.pdb
+C:\Users\cocol\Documents\Code\sexto_practivas\BUilder\BuilderPattern\obj\Debug\net7.0\BuilderPattern.dll
+C:\Users\cocol\Documents\Code\sexto_practivas\BUilder\BuilderPattern\obj\Debug\net7.0\refint\BuilderPattern.dll
+C:\Users\cocol\Documents\Code\sexto_practivas\BUilder\BuilderPattern\obj\Debug\net7.0\BuilderPattern.pdb
+C:\Users\cocol\Documents\Code\sexto_practivas\BUilder\BuilderPattern\obj\Debug\net7.0\BuilderPattern.genruntimeconfig.cache
+C:\Users\cocol\Documents\Code\sexto_practivas\BUilder\BuilderPattern\obj\Debug\net7.0\ref\BuilderPattern.dll
